@@ -8,6 +8,7 @@ Submission Requirements:
 - The language you used, added to the `Languages` section of `README.md`, preferably in alphabetical order.
 
 Languages:
+- AppleScript
 - Assembly
 - C
 - C++
