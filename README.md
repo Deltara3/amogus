@@ -9,9 +9,11 @@ Submission Requirements:
 
 Languages:
 - Assembly
-- C
+- C++
 - C#
+- Flutter
 - Go
+- Haskell
 - HTML
 - Haxe
 - Java
@@ -27,3 +29,4 @@ Languages:
 - Shell
 - SPWN
 - Swift
+- Typescript
