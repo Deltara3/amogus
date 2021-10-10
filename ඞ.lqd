@@ -1,0 +1,5 @@
+employ std.io -> io;
+
+fn main()
+   io.print("ඞ amogus");
+}
