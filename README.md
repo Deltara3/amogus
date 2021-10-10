@@ -13,7 +13,7 @@ Languages:
 - C#
 - Flutter
 - Go
-- Haskell
+- Dart
 - HTML
 - Haxe
 - Java
