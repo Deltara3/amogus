@@ -9,6 +9,7 @@ Submission Requirements:
 
 Languages:
 - Assembly
+- C
 - C++
 - C#
 - Flutter
