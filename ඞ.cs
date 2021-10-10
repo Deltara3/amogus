@@ -1,6 +1,6 @@
 namespace sus {
     void main() {
-       console.WriteLine("ඞ amogus");
+       console.WriteLine("ඞ");
    }
 }
 
