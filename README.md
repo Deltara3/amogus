@@ -31,4 +31,4 @@ Languages:
 - Shell
 - SPWN
 - Swift
-- Typescript
+- TypeScript
