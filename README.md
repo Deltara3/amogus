@@ -18,6 +18,7 @@ Languages:
 - Haxe
 - Java
 - JavaScript
+- LOLCODE
 - Lyqd
 - Nim
 - PHP
