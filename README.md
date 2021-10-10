@@ -11,7 +11,9 @@ Languages:
 - Assembly
 - C
 - C#
+- Flutter
 - Go
+- Haskell
 - HTML
 - Haxe
 - Java
