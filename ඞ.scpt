@@ -1,0 +1,1 @@
+display dialog "ඞ amogus"
