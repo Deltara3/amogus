@@ -1,1 +1,1 @@
-print("ඞ")
+print("ඞ amogus")
