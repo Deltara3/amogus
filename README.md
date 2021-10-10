@@ -32,3 +32,4 @@ Languages:
 - SPWN
 - Swift
 - TypeScript
+- VBScript
