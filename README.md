@@ -39,6 +39,7 @@ Languages:
 - LOLCODE
 - Lyqd
 - Lua
+  - TIC-80
 - Objective-C
 - Nim
 - PHP
