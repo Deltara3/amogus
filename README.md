@@ -19,6 +19,7 @@ Languages:
 - C#
 - Ceylon
 - CoffeeScript
+- E
 - Flutter / Dart
 - Go
 - Haskell
