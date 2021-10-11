@@ -11,6 +11,8 @@ Languages:
 - Numberlang
 - AppleScript
 - Assembly
+  - Boot sector
+    - Software can't display
 - Batch
 - Brainfuck
   - Cell size must be 16-bits
@@ -33,11 +35,15 @@ Languages:
 - Haskell
 - HTML
 - Haxe
+- SusOS
+  - Software can't display
 - Java
 - JavaScript
+- Kotlin
 - LOLCODE
 - Lyqd
 - Lua
+  - TIC-80
 - Objective-C
 - Nim
 - PHP
