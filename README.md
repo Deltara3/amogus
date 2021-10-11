@@ -13,6 +13,7 @@ Languages:
 - C
 - C++
 - C#
+- CoffeeScript
 - Flutter
 - Go
 - Dart
