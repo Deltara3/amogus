@@ -11,6 +11,7 @@ Languages:
 - Numberlang
 - AppleScript
 - Assembly
+- Batch
 - Brainfuck
   - Cell size must be 16-bits
   - Please someone optimize this
@@ -18,12 +19,13 @@ Languages:
 - C
 - C++
 - C#
-- Ceylon
 - Cobol
+- Ceylon
 - CoffeeScript
 - E
 - F#
 - Fortran
+- Befunge
 - Flutter / Dart
 - Go
 - Groovy
