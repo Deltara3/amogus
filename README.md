@@ -40,6 +40,7 @@ Languages:
   - Software can't display
 - Java
 - JavaScript
+- Jsyon
 - Kotlin
 - LOLCODE
 - Lyqd
