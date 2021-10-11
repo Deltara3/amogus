@@ -10,6 +10,10 @@ Submission Requirements:
 Languages:
 - AppleScript
 - Assembly
+- Brainfuck
+  - Cell size must be 16-bits
+  - Please someone optimize this
+  - Recommended interpreter is [copy.sh](https://copy.sh/brainfuck/)
 - C
 - C++
 - C#
