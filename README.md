@@ -20,6 +20,7 @@ Languages:
 - CoffeeScript
 - Flutter / Dart
 - Go
+- Haskell
 - HTML
 - Haxe
 - Java
@@ -34,6 +35,7 @@ Languages:
 - Rust
 - Scala
 - Shell
+- Shitlang
 - SPWN
 - Swift
 - TypeScript
