@@ -42,6 +42,7 @@ Languages:
 - Java
 - JavaScript
 - Jsyon
+- Julia
 - Kotlin
 - LOLCODE
 - Lyqd
