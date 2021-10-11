@@ -11,6 +11,7 @@ Languages:
 - Numberlang
 - AppleScript
 - Assembly
+- Batch
 - Brainfuck
   - Cell size must be 16-bits
   - Please someone optimize this
