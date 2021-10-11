@@ -19,10 +19,12 @@ Languages:
 - C
 - C++
 - C#
+- Cobol
 - Ceylon
 - CoffeeScript
 - E
 - F#
+- Fortran
 - Befunge
 - Flutter / Dart
 - Go
