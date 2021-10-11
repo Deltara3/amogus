@@ -18,9 +18,8 @@ Languages:
 - C++
 - C#
 - CoffeeScript
-- Flutter
+- Flutter / Dart
 - Go
-- Dart
 - HTML
 - Haxe
 - Java
