@@ -1,1 +1,1 @@
-main = putStrLn "ඞ amongus"
+putStrLn "ඞ amongus"
