@@ -1,1 +1,1 @@
-puts "ඞ"
+puts "ඞ amogus"
