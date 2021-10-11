@@ -35,6 +35,8 @@ Languages:
 - Haskell
 - HTML
 - Haxe
+- SusOS
+  - Software can't display
 - Java
 - JavaScript
 - Kotlin
