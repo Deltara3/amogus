@@ -56,4 +56,5 @@ Languages:
 - TypeScript
 - V
 - VBScript
+- Whitespace
 - Zig
