@@ -22,6 +22,7 @@ Languages:
 - CoffeeScript
 - E
 - F#
+- Befunge
 - Flutter / Dart
 - Go
 - Groovy
