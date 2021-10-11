@@ -8,6 +8,7 @@ Submission Requirements:
 - The language you used, added to the `Languages` section of `README.md`, preferably in alphabetical order.
 
 Languages:
+- Numberlang
 - AppleScript
 - Assembly
 - Brainfuck
@@ -20,8 +21,11 @@ Languages:
 - Ceylon
 - CoffeeScript
 - E
+- F#
 - Flutter / Dart
 - Go
+- Groovy
+- Genie
 - Haskell
 - HTML
 - Haxe
@@ -29,9 +33,12 @@ Languages:
 - JavaScript
 - LOLCODE
 - Lyqd
+- Lua
+- Objective-C
 - Nim
 - PHP
 - Python
+- Q#
 - Rebol
 - Ruby
 - Rust
@@ -39,7 +46,10 @@ Languages:
 - Shell
 - Shitlang
 - SPWN
+- SQL
 - Swift
+- SymbolJerk
 - TypeScript
 - V
 - VBScript
+- Zig
