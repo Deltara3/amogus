@@ -47,6 +47,7 @@ Languages:
 - Objective-C
 - Nim
 - PHP
+- PHL v1.0
 - Python
 - Q#
 - Rebol
