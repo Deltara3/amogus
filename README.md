@@ -13,6 +13,7 @@ Languages:
 - Assembly
   - Boot sector
     - Software can't display
+- Basic
 - Batch
 - Brainfuck
   - Cell size must be 16-bits
@@ -24,6 +25,7 @@ Languages:
 - Cobol
 - Ceylon
 - CoffeeScript
+- D
 - E
 - F#
 - Fortran
@@ -54,6 +56,7 @@ Languages:
 - Ruby
 - Rust
 - Scala
+- Scratch
 - Shell
 - Shitlang
 - SPWN
