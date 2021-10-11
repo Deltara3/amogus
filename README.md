@@ -17,6 +17,7 @@ Languages:
 - C
 - C++
 - C#
+- Ceylon
 - CoffeeScript
 - Flutter / Dart
 - Go
