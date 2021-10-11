@@ -35,6 +35,7 @@ Languages:
 - Haxe
 - Java
 - JavaScript
+- Kotlin
 - LOLCODE
 - Lyqd
 - Lua
