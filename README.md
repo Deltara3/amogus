@@ -32,6 +32,7 @@ Languages:
 - Rebol
 - Ruby
 - Rust
+- Scala
 - Shell
 - SPWN
 - Swift
