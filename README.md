@@ -29,6 +29,7 @@ Languages:
 - Elixir
 - F#
 - Fortran
+- Fish
 - Befunge
 - Flutter / Dart
 - Go
