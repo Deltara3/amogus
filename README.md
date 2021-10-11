@@ -25,6 +25,7 @@ Languages:
 - Ceylon
 - CoffeeScript
 - E
+- Elixir
 - F#
 - Fortran
 - Befunge
