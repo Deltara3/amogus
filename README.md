@@ -11,6 +11,8 @@ Languages:
 - Numberlang
 - AppleScript
 - Assembly
+  - Boot sector
+    - Software can't display
 - Batch
 - Brainfuck
   - Cell size must be 16-bits
