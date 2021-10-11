@@ -19,9 +19,11 @@ Languages:
 - C++
 - C#
 - Ceylon
+- Cobol
 - CoffeeScript
 - E
 - F#
+- Fortran
 - Flutter / Dart
 - Go
 - Groovy
