@@ -39,4 +39,5 @@ Languages:
 - SPWN
 - Swift
 - TypeScript
+- V
 - VBScript
