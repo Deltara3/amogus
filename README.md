@@ -70,4 +70,5 @@ Languages:
 - V
 - VBScript
 - Whitespace
+- XML
 - Zig
