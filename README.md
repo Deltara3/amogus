@@ -10,6 +10,7 @@ Submission Requirements:
 Languages:
 - Numberlang
 - AppleScript
+- Arduino
 - Assembly
   - Boot sector
     - Software can't display
