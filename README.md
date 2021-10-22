@@ -16,6 +16,7 @@ Languages:
     - Software can't display
 - Basic
 - Batch
+- Bluebat
 - Brainfuck
   - Cell size must be 16-bits
   - Recommended interpreter is [copy.sh](https://copy.sh/brainfuck/)
