@@ -1,0 +1,2 @@
+amogus:
+	@echo ඞ amogus

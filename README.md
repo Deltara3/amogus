@@ -10,14 +10,15 @@ Submission Requirements:
 Languages:
 - Numberlang
 - AppleScript
+- Arduino
 - Assembly
   - Boot sector
     - Software can't display
 - Basic
 - Batch
+- Bluebat
 - Brainfuck
   - Cell size must be 16-bits
-  - Please someone optimize this
   - Recommended interpreter is [copy.sh](https://copy.sh/brainfuck/)
 - C
 - C++
@@ -27,8 +28,10 @@ Languages:
 - CoffeeScript
 - D
 - E
+- Elixir
 - F#
 - Fortran
+- Fish
 - Befunge
 - Flutter / Dart
 - Go
@@ -41,6 +44,8 @@ Languages:
   - Software can't display
 - Java
 - JavaScript
+- Jsyon
+- Julia
 - Kotlin
 - LOLCODE
 - Lyqd
@@ -67,4 +72,5 @@ Languages:
 - V
 - VBScript
 - Whitespace
+- XML
 - Zig
