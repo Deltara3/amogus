@@ -53,6 +53,7 @@ Languages:
   - TIC-80
 - Objective-C
 - Nim
+- Pascal
 - PHP
 - PHL v1.0
 - Python
