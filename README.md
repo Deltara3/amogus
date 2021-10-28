@@ -54,6 +54,7 @@ Languages:
 - Objective-C
 - Nim
 - Pascal
+- PNG
 - PHP
 - PHL v1.0
 - Python
