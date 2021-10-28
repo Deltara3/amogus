@@ -11,6 +11,7 @@ Languages:
 - Numberlang
 - AppleScript
 - Arduino
+- AsciiDots
 - Assembly
   - Boot sector
     - Software can't display
