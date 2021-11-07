@@ -1,14 +1,19 @@
 # amogus
 Submit any language you'd like.
 
-Submission Requirements:
+## Submission Requirements
 - Must print only `ඞ amogus`
 - Must be named `ඞ.<extension>`
   - I.E, `ඞ.py, ඞ.rs, ඞ.c, etc`
 - The language you used, added to the `Languages` section of `README.md`, preferably in alphabetical order.
   - Will still merge without it, but it would be great if you can do it.
 
-Languages:
+## Special Thanks
+I'll put this here because the language list is long.
+- [Deltara3](https://github.com/Deltara3) - For this amazing idea.
+- [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or fixing for mistakes.
+
+## Language List
 - Numberlang
 - AppleScript
 - Arduino
