@@ -1,0 +1,15 @@
+syntax = "proto2";
+package amogus;
+option java_package = "amogus.ඞ";
+option java_outer_classname = "ඞ";
+
+message amogus {
+  required string amogus = 1;
+  required Sus sus = 2 [default = SUS];
+
+  enum Sus {
+    NOT_SUS = 0;
+    SUS = 1;
+  }
+
+}

@@ -78,3 +78,4 @@ Languages:
 - Whitespace
 - XML
 - Zig
+- Protobuf
