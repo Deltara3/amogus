@@ -59,6 +59,7 @@ Languages:
 - PNG
 - PHP
 - PHL v1.0
+- Protobuf
 - Python
 - Q#
 - Rebol
@@ -78,4 +79,3 @@ Languages:
 - Whitespace
 - XML
 - Zig
-- Protobuf
