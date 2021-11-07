@@ -86,4 +86,5 @@ I'll put this here because the language list is long.
 - VBScript
 - Whitespace
 - XML
+- YML
 - Zig
