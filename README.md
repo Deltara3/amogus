@@ -22,6 +22,7 @@ Languages:
 - Brainfuck
   - Cell size must be 16-bits
   - Recommended interpreter is [copy.sh](https://copy.sh/brainfuck/)
+  - Thanks to [SpeckyYT](https://github.com/SpeckyYT) for shortening the Brainfuck code a bit ago!
 - C
 - C++
 - C#
