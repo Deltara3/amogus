@@ -31,6 +31,7 @@ Languages:
 - D
 - E
 - Elixir
+- Emojicode
 - F#
 - Fortran
 - Fish
