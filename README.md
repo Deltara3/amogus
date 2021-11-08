@@ -70,6 +70,7 @@ I'll put this here because the language list is long.
 - Rebol
 - Ruby
 - Rust
+- React
 - Scala
 - Scratch
 - Shell
