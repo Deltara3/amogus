@@ -37,6 +37,7 @@ I'll put this here because the language list is long.
 - D
 - E
 - Elixir
+- Emojicode
 - F#
 - Fortran
 - Fish
