@@ -65,6 +65,7 @@ I'll put this here because the language list is long.
 - PNG
 - PHP
 - PHL v1.0
+- Protobuf
 - Python
 - Q#
 - Rebol
