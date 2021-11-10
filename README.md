@@ -88,3 +88,4 @@ I'll put this here because the language list is long.
 - XML
 - YML
 - Zig
+- YML
