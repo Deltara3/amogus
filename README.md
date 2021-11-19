@@ -11,7 +11,7 @@ Submit any language you'd like.
 ## Special Thanks
 I'll put this here because the language list is long.
 - [Deltara3](https://github.com/Deltara3) - For this amazing idea.
-- [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or fixing for mistakes.
+- [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
 
 ## Language List
 - Numberlang
