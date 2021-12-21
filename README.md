@@ -32,6 +32,8 @@ I'll put this here because the language list is long.
 - C++
 - C#
 - Cobol
+- Cesil
+  - Use [CesilC](https://github.com/danik4985/cesilc)
 - Ceylon
 - CoffeeScript
 - D
