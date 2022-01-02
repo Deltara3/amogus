@@ -14,7 +14,7 @@ I'll put this here because the language list is long.
 - [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
 
 ## Language List
-- Numberlang
+- Ada
 - AppleScript
 - Arduino
 - AsciiDots
@@ -64,6 +64,7 @@ I'll put this here because the language list is long.
   - TIC-80
 - Markdown
 - Nim
+- Numberlang
 - Objective-C
 - Pascal
 - PNG
@@ -73,6 +74,7 @@ I'll put this here because the language list is long.
 - Protobuf
 - Python
 - Q#
+- R
 - Rebol
 - Ruby
 - Rust
