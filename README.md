@@ -74,6 +74,7 @@ I'll put this here because the language list is long.
 - Python
 - Q#
 - Rebol
+- RickRoll-Lang
 - Ruby
 - Rust
 - React
