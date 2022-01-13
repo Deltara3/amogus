@@ -1,6 +1,32 @@
 #include <iostream>
+#define sus using
+#define sussus namespace
+#define sussussus std
+#define sussussussus ;
+#define sussussussussus int
+#define sussussussussussus main
+#define sussussussussussussus (
+#define sussussussussussussussus )
+#define sussussussussussussussussus while
+#define sussussussussussussussussussus true
+#define sussussussussussussussussussussus {
+#define sussussussussussussussussussussussus }
+#define sussussussussussussussussussussussussus cout
+#define sussussussussussussussussussussussussussus cerr
+#define sussussussussussussussussussussussussussussus <<
+#define sussussussussussussussussussussussussussussussus return
+#define sussussussussussussussussussussussussussussussussus string
+#define sussussussussussussussussussussussussussussussussussussus =
+#define sussussussussussussussussussussussussussussussussussussussus 0
 
-int main() {
-    std::cout << "ඞ amogus";
-    return 0;
-}
+sus sussus sussussus sussussussus
+sussussussussus sussussussussussus sussussussussussussus sussussussussussussussus
+sussussussussussussussussussussus
+sussussussussussussussussussussussussussussussussus sussussussussussussussussussussussussussussussussussus sussussussussussussussussussussussussussussussussussussus "ඞ"sussussussus
+sussussussussussussussussus sussussussussussussus sussussussussussussussussussus sussussussussussussussus
+sussussussussussussussussussussus
+sussussussussussussussussussussussussus sussussussussussussussussussussussussussussus sussussussussussussussussussussussussussussussussussus sussussussus
+sussussussussussussussussussussussussussus sussussussussussussussussussussussussussussus sussussussussussussussussussussussussussussussussussus sussussussus
+sussussussussussussussussussussussus
+sussussussussussussussussussussussussussussussus sussussussussussussussussussussussussussussussussussussussus sussussussus
+sussussussussussussussussussussussus
