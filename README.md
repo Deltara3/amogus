@@ -86,6 +86,7 @@ I'll put this here because the language list is long.
 - Shitlang
 - SPWN
 - SQL
+- SUS
 - Swift
 - SymbolJerk
 - TypeScript
