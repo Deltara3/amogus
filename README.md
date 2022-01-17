@@ -17,10 +17,12 @@ A joke reposistory for printing `ඞ amogus` in as many languages as possible.
 - Joke submissions should go in the `joke` folder.
   - I.E: non-programming languages and/or twisting of the rules.
 - Non-joke submissions should go in the `lang` folder.
+
 We will request changes on your submission if: 
   - These conditions aren't met.
   - We find it's not suitable for the repository in its current state.
-**If your submission is offensive in any way, it will be closed on sight, without hesitation.**
+
+**If your submission is offensive in any way, it will be denied on sight, without hesitation.**
 
 ## Special Thanks
 I'll put this here because the language list is long.
