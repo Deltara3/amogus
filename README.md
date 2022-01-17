@@ -19,13 +19,12 @@ A joke reposistory for printing `ඞ amogus` in as many languages as possible.
 - Non-joke submissions should go in the `lang` folder.
 
 We will request changes on your submission if: 
-  - These conditions aren't met.
-  - We find it's not suitable for the repository in its current state.
+- These conditions aren't met.
+- We find it's not suitable for the repository in its current state.
 
 **If your submission is offensive in any way, it will be denied on sight, without hesitation.**
 
 ## Special Thanks
-I'll put this here because the language list is long.
 - [Deltara3](https://github.com/Deltara3) - For this amazing idea.
 - [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
 
