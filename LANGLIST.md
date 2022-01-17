@@ -7,7 +7,7 @@
   - Boot sector
     - Software can't display
 - B
-  - Unknown if it works as compilers don't exist for B.
+  - Unknown if it works as compilers don't really exist for B.
 - Basic
 - Batch
 - Bluebat
