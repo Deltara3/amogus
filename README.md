@@ -7,6 +7,7 @@ Submit any language you'd like.
   - I.E, `ඞ.py, ඞ.rs, ඞ.c, etc`
 - The language you used, added to the `Languages` section of `README.md`, preferably in alphabetical order.
   - Will still merge without it, but it would be great if you can do it.
+- Joke submissions (anything that isn't a programming language) should go in `joke`
 
 ## Special Thanks
 I'll put this here because the language list is long.
