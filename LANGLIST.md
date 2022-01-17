@@ -7,6 +7,7 @@
   - Boot sector
     - Software can't display
 - B
+  - Successfully compiled under [ybc](https://github.com/Leushenko/ybc), may or may not work with other compilers.
 - Basic
 - Batch
 - Bluebat
