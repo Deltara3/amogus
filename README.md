@@ -1,5 +1,12 @@
 # amogus
-Submit any language you'd like.
+A joke reposistory for printing `ඞ amogus` in as many languages as possible.
+
+<a><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/Deltara3/amogus"></a>
+<a><img alt = "Total lines" src = "https://img.shields.io/tokei/lines/github/Deltara3/amogus"></a>
+<a href = "https://github.com/Deltara3/amogus/issues"><img alt = "Issues" src = "https://img.shields.io/github/issues/Deltara3/amogus"></a>
+<a href = "https://github.com/Deltara3/amogus/pulls"><img alt = "Pull Requests" src = "https://img.shields.io/github/issues-pr/Deltara3/amogus"></a>
+<a href = "https://github.com/Deltara3/amogus/graphs/contributors"><img alt = "Contributors" src = "https://img.shields.io/github/contributors/Deltara3/amogus"></a>
+<a href = "https://img.shields.io/github/stars/Deltara3/amogus"><img alt = "Stars" src = "https://img.shields.io/github/stars/Deltara3/amogus"></a>
 
 ## Submission Requirements
 - Must print only `ඞ amogus`
@@ -7,8 +14,7 @@ Submit any language you'd like.
   - I.E, `ඞ.py, ඞ.rs, ඞ.c, etc`
 - The language you used, added to the `Languages` section of `README.md`, preferably in alphabetical order.
   - Will still merge without it, but it would be great if you can do it.
-- Joke submissions (anything that isn't a programming language) should go in '[joke](https://github.com/Deltara3/amogus/tree/main/joke)'
-
+- Joke submissions (anything that isn't a programming language) should go in the `joke` folder.
 ## Special Thanks
 I'll put this here because the language list is long.
 - [Deltara3](https://github.com/Deltara3) - For this amazing idea.
