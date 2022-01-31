@@ -24,6 +24,8 @@ We will request changes on your submission if:
 
 **If your submission is offensive in any way, it will be denied on sight, without hesitation.**
 
+**As these files are basically just "Hello, world!" but for "ඞ amogus", all contributions will be licensed under the "[Unlicense](https://unlicense.org/)" license. If you do not like this, then do not contribute. This may be subject to change.**
+
 ## Special Thanks
 - [Deltara3](https://github.com/Deltara3) - For this amazing idea.
 - [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
