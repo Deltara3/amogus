@@ -10,71 +10,71 @@
   - Successfully compiled under [abc](https://github.com/aap/abc), may or may not work with other compilers.
 - Basic
 - Batch
+- Befunge
 - Bluebat
 - Brainfuck
   - Cell size must be 16-bits
   - Recommended interpreter is [copy.sh](https://copy.sh/brainfuck/)
   - Thanks to [SpeckyYT](https://github.com/SpeckyYT) for shortening the Brainfuck code a bit ago!
 - C
-- C++
 - C#
-- Cobol
+- C++
 - COK
 - Cesil
   - Use [CesilC](https://github.com/danik4985/cesilc)
 - Ceylon
+- Cobol
 - CoffeeScript
 - D
 - E
 - Elixir
 - Emojicode
 - F#
-- Fortran
 - Fish
-- Befunge
 - Flutter / Dart
+- Fortran
+- Genie
 - Go
 - Groovy
-- Genie
-- Haskell
 - HTML
+- Haskell
 - Haxe
-- SusOS
-  - Software can't display
 - Java
 - JavaScript
 - Jsyon
 - Julia
 - Kotlin
 - LOLCODE
-- Lyqd
 - Lua
   - TIC-80
+- Lyqd
 - Markdown
 - Nim
 - Numberlang
 - Objective-C
-- Pascal
-- PNG
-- PHP
 - PHL v1.0
+- PHP
+- PNG
+- Pascal
 - PowerShell
 - Protobuf
 - Python
 - Q#
 - R
+- React
 - Rebol
 - RickRoll-Lang
 - Ruby
 - Rust
-- React
+- SPWN
+- SQL
+- SUS
 - Scala
 - Scratch
 - Shell
 - Shitlang
-- SPWN
-- SQL
-- SUS
+- SusOS
+  - Software can't display
 - Swift
 - SymbolJerk
 - TypeScript
@@ -85,4 +85,3 @@
 - XML
 - YML
 - Zig
-- YML
