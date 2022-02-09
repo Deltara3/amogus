@@ -80,6 +80,7 @@
 - TypeScript
 - V
 - VBScript
+- Vim script
 - Whitespace
 - XML
 - YML
