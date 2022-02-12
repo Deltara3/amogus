@@ -2,11 +2,12 @@
 A joke reposistory for printing `ඞ amogus` in as many languages as possible.
 
 <a href = "#" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/Deltara3/amogus"></a>
-<a href = "#" onClick = "return false"><img alt = "Total lines" src = "https://img.shields.io/tokei/lines/github/Deltara3/amogus"></a>
 <a href = "https://github.com/Deltara3/amogus/issues"><img alt = "Issues" src = "https://img.shields.io/github/issues/Deltara3/amogus"></a>
 <a href = "https://github.com/Deltara3/amogus/pulls"><img alt = "Pull Requests" src = "https://img.shields.io/github/issues-pr/Deltara3/amogus"></a>
 <a href = "https://github.com/Deltara3/amogus/graphs/contributors"><img alt = "Contributors" src = "https://img.shields.io/github/contributors/Deltara3/amogus"></a>
+<a href = "#" onClick = "return false"><img alt = "Forks" src = "https://img.shields.io/github/forks/Deltara3/amogus"></a>
 <a href = "https://github.com/Deltara3/amogus/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/Deltara3/amogus"></a>
+<a href = "https://github.com/Deltara3/amogus/stargazers"><img alt = "License" src = "https://img.shields.io/github/license/Deltara3/amogus"></a>
 
 ## Submission Requirements
 - Must print only `ඞ amogus`
