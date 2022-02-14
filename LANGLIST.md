@@ -42,6 +42,7 @@
 - Haxe
 - Java
 - JavaScript
+- JSON
 - Jsyon
 - Julia
 - Kotlin
