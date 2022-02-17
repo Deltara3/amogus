@@ -27,6 +27,7 @@
 - Cobol
 - CoffeeScript
 - D
+- Dogescript
 - E
 - Elixir
 - Emojicode
