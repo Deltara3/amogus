@@ -17,7 +17,10 @@ A joke reposistory for printing `ඞ amogus` in as many languages as possible.
   - Will still merge without it, but it would be great if you can do it.
 - Joke submissions should go in the `joke` folder.
   - I.E: non-programming languages and/or twisting of the rules.
+    - Files such as `JPG`, `PNG`, `TXT`, etc.
+    - Scripts that print `ඞ amogus` `x` amount of times.
 - Non-joke submissions should go in the `lang` folder.
+  - **Any language that is, at the very least, usable to print a string.**
 
 We will request changes on your submission if: 
 - These conditions aren't met.
