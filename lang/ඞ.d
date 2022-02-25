@@ -1,6 +1,5 @@
-import std.stdio;
-
+import std;
 void main()
 {
-    write("ඞ amogus");
+    writeln("ඞ amogus");
 }
