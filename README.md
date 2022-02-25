@@ -11,6 +11,7 @@ A joke reposistory for printing `ඞ amogus` in as many languages as possible.
 
 ## Submission Requirements
 - Must print only `ඞ amogus`
+  - Newlines are allowed and prefered, however, keep it to one please.
 - Should be named `ඞ.<extension>`
   - I.E, `ඞ.py, ඞ.rs, ඞ.c, etc`
 - The language you used, added to `LANGLIST.md`, preferably in alphabetical order.
