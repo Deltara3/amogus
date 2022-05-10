@@ -41,6 +41,7 @@
 - HTML
 - Haskell
 - Haxe
+- HolyC
 - Java
 - JavaScript
 - Jsyon
