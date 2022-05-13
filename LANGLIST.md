@@ -9,7 +9,7 @@
     - Software can't display
 - B
   - Successfully compiled under [abc](https://github.com/aap/abc), may or may not work with other compilers.
-- Basic
+- BASIC
 - Batch
 - Befunge
 - Bluebat
@@ -20,28 +20,28 @@
 - C
 - C#
 - C++
-- COK
 - Cesil
   - Use [CesilC](https://github.com/danik4985/cesilc)
 - Ceylon
-- Cobol
+- COBOL
 - CoffeeScript
+- COK
 - D
+- Dart
 - Dogescript
 - E
 - Elixir
 - Emojicode
 - F#
 - Fish
-- Flutter / Dart
 - Fortran
 - Genie
 - Go
 - Groovy
-- HTML
 - Haskell
 - Haxe
 - HolyC
+- HTML
 - Java
 - JavaScript
 - Jsyon
@@ -55,10 +55,10 @@
 - Nim
 - Numberlang
 - Objective-C
+- Pascal
 - PHL v1.0
 - PHP
 - PNG
-- Pascal
 - PowerShell
 - Protobuf
 - Python

@@ -1,1 +1,3 @@
-@echo ඞ amogus
+@echo off
+
+echo ඞ amogus
