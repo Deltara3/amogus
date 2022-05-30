@@ -1,0 +1,1 @@
+main = putStrLn "ඞ amongus"

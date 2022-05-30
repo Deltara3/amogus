@@ -1,0 +1,4 @@
+CREATE TABLE ඞ (AMOGUS TEXT);
+INSERT INTO ඞ VALUES ("ඞ amogus");
+
+SELECT * FROM ඞ WHERE AMOGUS = "ඞ amogus";
