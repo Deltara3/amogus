@@ -1,1 +1,0 @@
-Print "ඞ amogus"

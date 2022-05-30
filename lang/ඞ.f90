@@ -1,2 +1,0 @@
-print *, "ඞ amogus" 
-end

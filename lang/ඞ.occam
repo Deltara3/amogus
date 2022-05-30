@@ -1,5 +1,0 @@
-PROGRAM ඞ
-#USE ioconv
-
-SEQ
-  write.full.string(screen,"ඞ amogus")

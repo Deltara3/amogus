@@ -1,5 +1,0 @@
-integer new main()
-{
-   println.format("ඞ amogus");
-   return 0;
-}

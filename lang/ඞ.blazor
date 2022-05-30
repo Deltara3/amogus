@@ -1,7 +1,0 @@
-@page "/ඞamogus"
-
-<h1>@amogus</h1>
-
-@code {
-    private string amogus { get; } = "ඞamogus";
-}
