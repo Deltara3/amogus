@@ -48,6 +48,7 @@ A joke repository for printing `ඞ amogus` in as many languages as possible.
       └── ඞ.langext
       ```
       - If you have no notes, exclude the notes section.
+      - Please put the tree in a code block.
   - **Any language that is, at the very least, usable to print a string.**
 
 We will request changes on your submission if: 
