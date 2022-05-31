@@ -17,10 +17,14 @@ A joke repository for printing `ඞ amogus` in as many languages as possible.
 - The language you used, added to `LANGLIST.md`, preferably in alphabetical order.
   - Will still merge without it, but it would be great if you can do it.
 - Joke submissions should go in the `joke` folder.
-  - I.E: non-programming languages and/or twisting of the rules.
-    - Files such as `JPG`, `PNG`, `TXT`, etc.
+  - I.E: Twisting of the rules.
     - Scripts that print `ඞ amogus` `x` amount of times.
-- Non-joke submissions should go in the `lang` folder.
+- miscellaneous submissions should go in the `misc` folder.
+  - I.E: Non-programming languages.
+    - Files such as `JPG`, `PNG`, `TXT`, etc.
+- Non-joke submissions should go in its own folder in the `lang` folder.
+  - I.E: `lang/CSharp/ඞ.cs`
+    - Each language will have a subfolder for miscellaneous and joke submission then they are created.
   - **Any language that is, at the very least, usable to print a string.**
 
 We will request changes on your submission if: 
