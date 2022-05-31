@@ -11,6 +11,7 @@
   - Successfully compiled under [abc](https://github.com/aap/abc), may or may not work with other compilers.
 - BASIC
 - Batch
+- Beef
 - Befunge
 - Bluebat
 - Brainfuck
