@@ -24,7 +24,16 @@ A joke repository for printing `ඞ amogus` in as many languages as possible.
     - Files such as `JPG`, `PNG`, `TXT`, etc.
 - Non-joke submissions should go in its own folder in the `lang` folder.
   - I.E: `lang/CSharp/ඞ.cs`
-    - Each language will have a subfolder for miscellaneous and joke submission then they are created.
+    - Each language will have a subfolder for miscellaneous and joke submission then they are created. Example tree listing below.
+      ```
+      Assembly
+      ├── joke
+      │   ├── ඞ_420.asm
+      │   └── ඞ_69.asm
+      ├── misc
+      │   └── ඞ_boot.asm
+      └── ඞ.asm
+      ```
   - **Any language that is, at the very least, usable to print a string.**
 
 We will request changes on your submission if: 
