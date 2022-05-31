@@ -14,9 +14,7 @@ A joke repository for printing `ඞ amogus` in as many languages as possible.
   - Newlines are allowed and prefered, however, keep it to one please.
 - Should be named `ඞ.<extension>`
   - I.E, `ඞ.py, ඞ.rs, ඞ.c, etc`
-- The language you used, added to `LANGLIST.md`, preferably in alphabetical order.
-  - Will still merge without it, but it would be great if you can do it.
-- Joke submissions should go in the `joke` folder.
+- Joke submissions should go in the `joke` folder of the language.
   - I.E: Twisting of the rules.
     - Scripts that print `ඞ amogus` `x` amount of times.
 - miscellaneous submissions should go in the `misc` folder.
@@ -34,6 +32,22 @@ A joke repository for printing `ඞ amogus` in as many languages as possible.
       │   └── ඞ_boot.asm
       └── ඞ.asm
       ```
+    - Add a `NOTES.md` with any notes and the tree if possible. Example below.
+      ```md
+      # Langname
+      ## Notes
+      - Note 1
+      - Note 2
+      ## Tree
+      Langname
+      ├── joke
+      │   ├── ඞ_420.langext
+      │   └── ඞ_69.langext
+      ├── misc
+      │   └── ඞ_boot.langext
+      └── ඞ.langext
+      ```
+      - If you have no notes, exclude the notes section.
   - **Any language that is, at the very least, usable to print a string.**
 
 We will request changes on your submission if: 
@@ -49,4 +63,4 @@ We will request changes on your submission if:
 - [Contributors](https://github.com/Deltara3/amogus/graphs/contributors) - For adding more languages, or for fixing mistakes.
 
 ## Language List
-Moved to [LANGLIST.md](https://github.com/Deltara3/amogus/blob/main/LANGLIST.md)
+Refer to the lang folder.
