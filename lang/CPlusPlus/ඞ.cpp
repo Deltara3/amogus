@@ -1,6 +1,9 @@
 #include <iostream>
 
-int main() {
-    std::cout << "ඞ amogus\n";
+using namespace std;
+
+int main() 
+{
+    cout << "ඞ amogus" << endl;
     return 0;
 }
