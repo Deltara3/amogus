@@ -1,4 +1,1 @@
-main()
-{
-  print("ඞ amogus");
-}
+main() { print("ඞ amogus"); }
