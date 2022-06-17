@@ -1,7 +1,12 @@
-namespace sus {
-    void main() {
-       System.Console.WriteLine("ඞ amogus");
-   }
-}
+using System;
 
-sus.main();
+namespace amogus
+{
+    internal class sus
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("ඞ amogus");
+        }
+    }
+}
