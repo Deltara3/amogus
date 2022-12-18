@@ -12,5 +12,5 @@ _start:
     int 0x80
 
 section .data
-msg db "ඞ amogus",0xa
+msg db "ඞ amogus",0xa, 0x0
 len equ $ - msg
