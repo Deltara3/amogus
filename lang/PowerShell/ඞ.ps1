@@ -1,1 +1,1 @@
-[Console]::WriteLine("ඞ amogus")
+Write-Output "ඞ amogus"
